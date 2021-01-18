@@ -1,0 +1,55 @@
+// animations for react-transition-group
+
+@include css-vars((
+        --fade-transition: opacity 0.5s,
+));
+
+.fade-transition-appear,
+.fade-transition-enter {
+  opacity: 0;
+}
+.fade-transition-appear-active,
+.fade-transition-enter-active {
+  opacity: 1;
+  transition: var(--fade-transition);
+}
+.fade-transition-exit {
+  opacity: 1;
+}
+.fade-transition-exit-active {
+  opacity: 0;
+  transition: var(--fade-transition);
+}
+
+
+
+
+// todo: fix
+//@include css-vars((
+//        --scale-in-center-transition: var(--scale-in-center-transition),
+//));
+//@keyframes scale-in-center {
+//  0% {
+//    transform: scale(0);
+//    opacity: 1;
+//  }
+//  100% {
+//    transform: scale(1);
+//    opacity: 1;
+//  }
+//}
+//.scale-in-center-appear,
+//.scale-in-center-enter {
+//  animation: var(--scale-in-center-transition) cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+//}
+//.scale-in-center-appear-active,
+//.scale-in-center-enter-active {
+//  animation: var(--scale-in-center-transition) cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+//}
+//.scale-in-center-exit {
+//  animation: var(--scale-in-center-transition) cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+//}
+//.scale-in-center-exit-active {
+//  animation: var(--scale-in-center-transition) cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+//}
+

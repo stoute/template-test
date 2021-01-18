@@ -1,0 +1,33 @@
+{
+  "appId": "app-react",
+  "apiUrl": "https://bsmp-workspace.firebaseapp.com/apps/documentation/assets/data/mock",
+  "cache": false,
+  "language": "nl",
+  "menus": {
+    "mainMenu": [
+      {
+        "title": "Home",
+        "href": "/"
+      },
+      {
+        "title": "About",
+        "href": "/about"
+      },
+      {
+        "title": "Trips",
+        "href": "/entities/trip"
+      },
+      {
+        "title": "Trip",
+        "href": "/entities/trip/8794251"
+      }
+    ],
+    "userMenu": [
+      {
+        "title": "User",
+        "href": "/user"
+      }
+    ],
+    "firebaseApps" : { }
+  }
+}

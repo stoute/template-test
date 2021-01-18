@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="97px" height="95px" viewBox="0 0 97 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-sym</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="sketch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="screens" transform="translate(-125.000000, -78.000000)" fill="#F5A623" fill-rule="nonzero">
+            <g id="screen">
+                <g id="logo-sym" transform="translate(173.500000, 125.500000) rotate(180.000000) translate(-173.500000, -125.500000) translate(125.000000, 78.000000)">
+                    <path d="M96.4013195,47.4900916 C96.4013195,21.2611118 74.8263352,-7.10542736e-15 48.2045035,-7.10542736e-15 C21.5788281,-7.10542736e-15 0,21.2611118 0,47.4900916 C0.00384375277,73.7114984 21.5788281,94.9726102 48.2045035,94.9726102 C74.8263352,94.9726102 96.4013195,73.7114984 96.4013195,47.4900916 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
